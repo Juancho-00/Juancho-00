@@ -1,4 +1,4 @@
-# 💸 Financial Engineer | Data Analyst | Business Analyst | IA solutions
+# 💸 Financial Engineer | Financial Analyst | Data Scientist | Data Engineer | Data Analyst | Business Analyst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Juancho-00&color=green)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black)](https://www.linkedin.com/in/juan-quintero-354a09289)
